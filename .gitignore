@@ -1,0 +1,8 @@
+target/
+*.class
+global/
+*.jasper
+mgis-work/
+*~
+*.orig
+*.log
